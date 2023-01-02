@@ -66,8 +66,6 @@ function area(figure,x,y){
 area("rectangle",8,5)
 
 // 5 Given an object. Invert it (keys become values and values become keys).
-// Դավիթ ջան ես 5-ի մեջ կիսատա , կրկնվող դեպքը չեղավ իմ մոտ քննարկելուց կնայենք
-
 
 let obj= {
     a:  "1",
